@@ -1,3 +1,10 @@
+# Sample project for demonstrating an IntelliJ Jest problem
+
+this sample shows that updating inline snapshots is no longer
+available in more recent versions of IntelliJ (2019.2).
+
+----
+
 # Sample Project using ts-jest
 
 The goal in this project is to create a TypeScript project that can do all of the following:
